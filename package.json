@@ -1,5 +1,5 @@
 {
-  "name": "Mythia-Batford",
+  "name": "ArullBotz",
  "version": "2.5.1",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -23,16 +23,16 @@
     "Mythia-Batford",
     "wabot-aq"
   ],
-  "homepage": "https://github.com/Johannes2803/Mythia-Batford",
+  "homepage": "https://github.com/Arullzzz/Mythia-Batford",
   "author": {
-    "name": "Johannes"
+    "name": "Arull"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nurutomo/wabot-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/Johannes2803/Mythia-Batford/issues"
+    "url": "https://github.com/Arullzzz/Mythia-Batford/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
